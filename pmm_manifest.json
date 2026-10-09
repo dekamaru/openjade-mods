@@ -8,11 +8,11 @@
       "id": "rival-swords-chariot-races",
       "image": "images/rival-swords-chariot-races.png",
       "name": "Rival Swords Chariot Races",
-      "sha256": "fd6628e87fefe9972f06f5dee5ba854bc057f599a2bff3779b1fb49f370e6916",
-      "size": 28061944,
+      "sha256": "c12619f3fe1d7aea88d23726edad691a76d0d3cd5589b40fa9dfb4c48e107fb6",
+      "size": 28061852,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.0"
+      "version": "1.1"
     }
   ],
   "schema_version": 1
