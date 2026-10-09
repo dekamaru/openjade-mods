@@ -1,4 +1,19 @@
 {
-  "schema_version": 1,
-  "mods": []
+  "mods": [
+    {
+      "author": "dekamaru",
+      "description": "Babylon, Sewer and Canyon races from PSP Rival Swords, enhanced with a timer and difficulty modes.",
+      "file": "ChariotRaces.jtmod",
+      "game": "T2T",
+      "id": "rival-swords-chariot-races",
+      "image": "images/rival-swords-chariot-races.png",
+      "name": "Rival Swords Chariot Races",
+      "sha256": "fd6628e87fefe9972f06f5dee5ba854bc057f599a2bff3779b1fb49f370e6916",
+      "size": 28061944,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
+    }
+  ],
+  "schema_version": 1
 }
