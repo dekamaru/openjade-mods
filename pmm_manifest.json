@@ -8,11 +8,25 @@
       "id": "rival-swords-chariot-races",
       "image": "images/rival-swords-chariot-races.png",
       "name": "Rival Swords Chariot Races",
-      "sha256": "c12619f3fe1d7aea88d23726edad691a76d0d3cd5589b40fa9dfb4c48e107fb6",
-      "size": 28061852,
+      "sha256": "baa6c68a73a346cff5196676562c03c0df74a3899545542053097320cff6b517",
+      "size": 28066520,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.1"
+      "version": "1.3"
+    },
+    {
+      "author": "dekamaru",
+      "description": "Multiplayer maps from PSP Rival Swords, featuring Internet/LAN multiplayer and solo play.",
+      "file": "MultiplayerMaps.jtmod",
+      "game": "T2T",
+      "id": "rival-swords-multiplayer-maps",
+      "image": "images/rival-swords-multiplayer-maps.png",
+      "name": "Rival Swords Multiplayer Maps",
+      "sha256": "2a55890dd8811e3993177e394cdc6fe75495091294277b796f2b2161883ba15b",
+      "size": 52690849,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.2"
     }
   ],
   "schema_version": 1
