@@ -27,6 +27,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.2"
+    },
+    {
+      "author": "dekamaru",
+      "description": "Unlocks the original Prince of Persia game. To access it, break the wall in the area after the \"Above the Baths\" save point, or complete The Sands of Time.",
+      "file": "UnlockPrinceOfPersia1.jtmod",
+      "game": "SoT",
+      "id": "unlock-prince-of-persia-1",
+      "image": "images/unlock-prince-of-persia-1.png",
+      "name": "Unlock Prince Of Persia 1",
+      "sha256": "508cbb335284232d2ff1935a0ecb50380e1c8006db4e02b2708145da4f69793b",
+      "size": 4703623,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
