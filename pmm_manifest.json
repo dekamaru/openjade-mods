@@ -41,6 +41,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "Alvara",
+      "description": "A mod which changes the Prince's character model with a more detailed new one giving more silhouette, modified hair model and fixed teeth. And still using existing or compatible with modded textures.",
+      "file": "EnhancedPrince.jtmod",
+      "game": "WW",
+      "id": "enhanced-model-prince",
+      "image": "images/enhanced-model-prince.png",
+      "name": "Enhanced Model - Prince",
+      "sha256": "3cab9ecc3271a4c55e7d68750dbfd5dda82b77b1e9e1c384d52a1b3d9e3c12d6",
+      "size": 18516878,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.2"
     }
   ],
   "schema_version": 1
